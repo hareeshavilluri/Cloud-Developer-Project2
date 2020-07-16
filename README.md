@@ -12,3 +12,6 @@ Detailed step by step screen shots are attached in the documents -
   HareeshaV - Udagram Your Own Instagram on AWS.docx - project related step by step screen shots
   
   Full Stack Apps on AWS.docx - complete lesson step by step screen shot
+
+
+  Engineering Process and Quality - Review comments implemented.
